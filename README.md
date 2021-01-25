@@ -4,7 +4,7 @@ NSG 4G celldb is a crowdsourced 4G cell database for Network Signal Guru Android
 
 ## Why does this exist?
 
-Cell database is a CSV file containing information of 4G eNbs (Towers) only from operators in Germany (262-01, -02 & -03). All values are comma-separated. This file can be imported into NSG to display tower location, cell sectors and their respective azimuth (quite like cellmapper does).
+Cell database is a CSV file containing information of 4G eNbs (4G Towers). All values are comma-separated. This file can be imported into NSG to display tower location, cell sectors and their respective azimuth (quite like cellmapper does).
 
 [![example](https://raw.githubusercontent.com/Henrocker/NSG-4G-celldb/main/example.PNG)]()
 
