@@ -18,7 +18,7 @@ Cell database is a CSV file containing information of 4G eNbs (4G Towers). All v
 * __ECellID__ -> Unique Cell ID (e.g. 10566783)
 * __Azimuth__ -> Direction of transmission via angle indication (e.g. for a three sector tower looking at 0°, 120° & 240°, put in the angles without the '°')
 
-In general, data from official STOBs (BNetzA), Cellmapper and NSG can be combined to fill the required fields in the db cellfile. See the existing celldb for some orientation of formatting and data requirements.
+In general, data from official STOBs (BNetzA), Cellmapper and NSG can be combined to fill the required fields in the db cellfile. See the existing celldb for some orientation on formatting and data requirements.
 
 ## Links
 
