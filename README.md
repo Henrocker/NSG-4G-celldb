@@ -22,4 +22,4 @@ In general, data from official STOBs (BNetzA), Cellmapper and NSG can be combine
 
 ## Links
 
-Visit the [official documentation](https://m.qtrun.com/help/111CellFileBasics.html) to learn more.
+Refer to the [official documentation](https://m.qtrun.com/help/111CellFileBasics.html) to learn more.
