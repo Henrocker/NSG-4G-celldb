@@ -1,6 +1,11 @@
 # NSG 4G celldb
 
-NSG 4G celldb is a crowdsourced 4G cell database for Network Signal Guru Android app. Contribute by adding tower data from towers in your area. Create a pull request with your added towers. Please check, if the file is valid and working in NSG before opening any request. 
+NSG 4G celldb is a crowdsourced 4G cell database for Network Signal Guru Android app.
+
+## Contribute!
+
+Please contribute to this list by adding your own towers to the celldb. Create a pull request and please check, if the file is valid and working in NSG before opening any request.
+Thank you! 😊
 
 ## Why does this exist?
 
